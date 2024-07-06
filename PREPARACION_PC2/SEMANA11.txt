@@ -1,0 +1,47 @@
+// Modulos.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
+//
+
+#include <iostream>
+#include <stdio.h>
+#include "funcionalidades.h"
+//#include "funcionalidades2.h"
+//#include "funcionalidades3.h"
+//#include "funcionalidades4.h"
+using namespace std;
+
+
+
+int main() {// PRIMERO
+	GenerarMostrarDatos();
+	Lista_EncimaDelPromedio();
+	Devuelve_Mayor();
+}
+
+/*int main() { //sSEGUNDO 
+	generar_datos(20);
+	mas_longevo();
+
+
+}+/
+
+/*int main() {
+	genera_y_muestra(20);
+	porcentaje_gripe();
+	cout << endl;
+	porcentaje_tos();
+	cout << endl;
+	promedio_pesos_enfermos();
+	cout << endl;
+	listado_ordenado();
+	
+}*/
+
+/*/int main() {
+	generar_random();
+	Cajachos_Punenos();
+	Ordenar_Y_Mostrar();
+
+}*/
+
+
+

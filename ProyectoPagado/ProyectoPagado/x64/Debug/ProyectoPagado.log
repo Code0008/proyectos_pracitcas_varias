@@ -1,0 +1,3 @@
+﻿  ProyectoPagado.cpp
+D:\c++\ProyectoPagado\ProyectoPagado.cpp(304,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  ProyectoPagado.vcxproj -> D:\c++\ProyectoPagado\x64\Debug\ProyectoPagado.exe

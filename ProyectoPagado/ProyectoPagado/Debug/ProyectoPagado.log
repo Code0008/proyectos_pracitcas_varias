@@ -1,0 +1,4 @@
+﻿  ProyectoPagado.cpp
+D:\c++\ProyectoPagado\ProyectoPagado.cpp(55,23): warning C4018: '<': no coinciden signed/unsigned
+D:\c++\ProyectoPagado\ProyectoPagado.cpp(74,23): warning C4018: '<': no coinciden signed/unsigned
+LINK : fatal error LNK1168: no se puede abrir D:\c++\ProyectoPagado\Debug\ProyectoPagado.exe para escritura
